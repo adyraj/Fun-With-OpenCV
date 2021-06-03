@@ -1,4 +1,4 @@
-un-With_OpenCV
+Fun-With-OpenCV
 =========
 
 This repository contains code of OpenCV for the following:
